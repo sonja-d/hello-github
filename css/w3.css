@@ -240,7 +240,7 @@ hr {
   height: auto;
 }
 img {
-  vertical-align: middle;
+  vertical-align: top;
 }
 a {
   color: inherit;
